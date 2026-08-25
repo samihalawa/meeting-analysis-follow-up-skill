@@ -1,6 +1,6 @@
 ---
 name: meeting-analysis-follow-up-skill
-description: Fully analyze one complete meeting from a transcript plus optional context files (CV, job description, case studies, decks, prior emails). Extract what was actually said, real pain points, commitments, risks, and the impression given. Produce a 1–3 page HTML-then-PDF debrief and an impression-aware follow-up email draft. Use after any meeting kind for any person: interview, sales, client, internal, discovery, academic, or partnership.
+description: "Fully analyze one complete meeting from a transcript plus optional context files (CV, job description, case studies, decks, prior emails). Extract what was actually said, real pain points, commitments, risks, and the impression given. Produce a 1-3 page HTML-then-PDF debrief and an impression-aware follow-up email draft. Use after any meeting kind for any person, including interview, sales, client, internal, discovery, academic, or partnership."
 ---
 
 # Meeting Analysis & Follow-Up
